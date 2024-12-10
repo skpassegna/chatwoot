@@ -338,7 +338,7 @@ function setup_chatwoot() {
   rvm install "ruby-3.3.3"
   rvm use 3.3.3 --default
 
-  git clone https://github.com/chatwoot/chatwoot.git
+  git clone https://github.com/skpassegna/chatwoot.git
   cd chatwoot
   git checkout "$BRANCH"
   bundle
@@ -646,7 +646,7 @@ Miscellaneous:
 Exit status:
 Returns 0 if successful; non-zero otherwise.
 
-Report bugs at https://github.com/chatwoot/chatwoot/issues
+Report bugs at https://github.com/skpassegna/chatwoot/issues
 Get help, https://chatwoot.com/community?utm_source=cwctl
 
 EOF

@@ -56,7 +56,7 @@ post:
     - Conversations
   operationId: newConversation
   summary: Create New Conversation
-  description: "Creating a conversation in chatwoot requires a source id. \n\n Learn more about source_id: https://github.com/chatwoot/chatwoot/wiki/Building-on-Top-of-Chatwoot:-Importing-Existing-Contacts-and-Creating-Conversations"
+  description: "Creating a conversation in chatwoot requires a source id. \n\n Learn more about source_id: https://github.com/skpassegna/chatwoot/wiki/Building-on-Top-of-Chatwoot:-Importing-Existing-Contacts-and-Creating-Conversations"
   security:
     - userApiKey: []
     - agentBotApiKey: []
@@ -120,10 +120,10 @@ post:
                     type: string
                     description: Language of the template
                     example: en_US
-                  processed_params: 
+                  processed_params:
                     type: object
                     description: The processed param values for template variables in template
-                    example: 
+                    example:
                       1: "Chatwoot"
   responses:
     200:

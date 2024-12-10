@@ -1,4 +1,4 @@
-## 🚨 Note: This branch is unstable. For the stable branch's source code, please use the branch [3.x](https://github.com/chatwoot/chatwoot/tree/3.x)
+## 🚨 Note: This branch is unstable. For the stable branch's source code, please use the branch [3.x](https://github.com/skpassegna/chatwoot/tree/3.x)
 
 
 <img src="https://user-images.githubusercontent.com/2246121/282256557-1570674b-d142-4198-9740-69404cc6a339.png#gh-light-mode-only" width="100%" alt="Chat dashboard dark mode"/>
@@ -10,7 +10,7 @@ ___
 
 Customer engagement suite, an open-source alternative to Intercom, Zendesk, Salesforce Service Cloud etc.
 <p>
-  <a href="https://heroku.com/deploy?template=https://github.com/chatwoot/chatwoot/tree/master" alt="Deploy to Heroku">
+  <a href="https://heroku.com/deploy?template=https://github.com/skpassegna/chatwoot/tree/master" alt="Deploy to Heroku">
      <img width="150" alt="Deploy" src="https://www.herokucdn.com/deploy/button.svg"/>
   </a>
   <a href="https://marketplace.digitalocean.com/apps/chatwoot?refcode=f2238426a2a8" alt="Deploy to DigitalOcean">
@@ -21,8 +21,8 @@ Customer engagement suite, an open-source alternative to Intercom, Zendesk, Sale
 <p>
   <a href="https://codeclimate.com/github/chatwoot/chatwoot/maintainability"><img src="https://api.codeclimate.com/v1/badges/e6e3f66332c91e5a4c0c/maintainability" alt="Maintainability"></a>
   <img src="https://img.shields.io/circleci/build/github/chatwoot/chatwoot" alt="CircleCI Badge">
-    <a href="https://hub.docker.com/r/chatwoot/chatwoot/"><img src="https://img.shields.io/docker/pulls/chatwoot/chatwoot" alt="Docker Pull Badge"></a>
-  <a href="https://hub.docker.com/r/chatwoot/chatwoot/"><img src="https://img.shields.io/docker/cloud/build/chatwoot/chatwoot" alt="Docker Build Badge"></a>
+    <a href="https://hub.docker.com/r/skpassegna/chatwoot"><img src="https://img.shields.io/docker/pulls/chatwoot/chatwoot" alt="Docker Pull Badge"></a>
+  <a href="https://hub.docker.com/r/skpassegna/chatwoot"><img src="https://img.shields.io/docker/cloud/build/chatwoot/chatwoot" alt="Docker Build Badge"></a>
   <img src="https://img.shields.io/github/commit-activity/m/chatwoot/chatwoot" alt="Commits-per-month">
   <a title="Crowdin" target="_self" href="https://chatwoot.crowdin.com/chatwoot"><img src="https://badges.crowdin.net/e/37ced7eba411064bd792feb3b7a28b16/localized.svg"></a>
   <a href="https://discord.gg/cJXdrwS"><img src="https://img.shields.io/discord/647412545203994635" alt="Discord"></a>
@@ -86,7 +86,7 @@ If you are looking for a stable version, please use the `master` or tags labelle
 
 Deploying Chatwoot to Heroku is a breeze. It's as simple as clicking this button:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/chatwoot/chatwoot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/skpassegna/chatwoot/tree/master)
 
 Follow this [link](https://www.chatwoot.com/docs/environment-variables) to understand setting the correct environment variables for the app to work with all the features. There might be breakages if you do not set the relevant environment variables.
 
@@ -117,7 +117,7 @@ If you need help or just want to hang out, come, say hi on our [Discord](https:/
 
 Thanks goes to all these [wonderful people](https://www.chatwoot.com/docs/contributors):
 
-<a href="https://github.com/chatwoot/chatwoot/graphs/contributors"><img src="https://opencollective.com/chatwoot/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/skpassegna/chatwoot/graphs/contributors"><img src="https://opencollective.com/chatwoot/contributors.svg?width=890&button=false" /></a>
 
 
 *Chatwoot* &copy; 2017-2024, Chatwoot Inc - Released under the MIT License.
